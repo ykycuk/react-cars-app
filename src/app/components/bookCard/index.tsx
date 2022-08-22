@@ -122,7 +122,7 @@ export function BookCard() {
                 <Icon>
                     <FontAwesomeIcon icon={faCalendarAlt}/>
                 </Icon>
-                <Name onClick={toggleStartDateCalendar}>Pick Up Date</Name>
+                <Name onClick={toggleStartDateCalendar}>Сроки поставки</Name>
                 <SmallIcon>
                     <FontAwesomeIcon icon={isStartCalendarOpen ? faCaretUp : faCaretDown} />
                 </SmallIcon>
@@ -133,7 +133,7 @@ export function BookCard() {
                 <Icon>
                     <FontAwesomeIcon icon={faCalendarAlt}/>
                 </Icon>
-                <Name onClick={toggleReturnCalendarOpen}>Return Date</Name>
+                <Name onClick={toggleReturnCalendarOpen}>Дата получения</Name>
                 <SmallIcon>
                     <FontAwesomeIcon icon={isReturnCalendarOpen ? faCaretUp : faCaretDown} />
                 </SmallIcon>
@@ -146,7 +146,7 @@ export function BookCard() {
                 }
             </ItemContainer>
             <Marginer direction="horizontal" margin="2em"/>
-            <Button text="Book Your Ride"/>
+            <Button text="Забронировать"/>
         </CardContainer>
     )
 }

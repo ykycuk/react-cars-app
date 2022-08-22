@@ -89,7 +89,7 @@ const StepIcon = styled.span`
 export function BookingSteps() {
     return (
         <Container>
-            <Title>Our Working Steps</Title>
+            <Title>Как мы работаем</Title>
             <StepsContainer>
                 <StepContainer>
                     <Step>
@@ -98,10 +98,10 @@ export function BookingSteps() {
                         </StepIcon>
                     </Step>
                     <StepTitle>
-                        Choose Location 
+                        Бренд Машины
                     </StepTitle>
                     <StepDescription>
-                        Find the nearest Yourcar point and book your car.
+                        Выбрать бренд машины
                     </StepDescription>
                 </StepContainer>
                 <StepContainer>
@@ -111,10 +111,10 @@ export function BookingSteps() {
                         </StepIcon>
                     </Step>
                     <StepTitle>
-                        Pick-Up Date
+                        Дата Поставки
                     </StepTitle>
                     <StepDescription>
-                        Pickup the best date to rent a car for you.
+                        Выбрать удобную дату для получения.
                     </StepDescription>
                 </StepContainer>
                 <StepContainer>
@@ -124,10 +124,10 @@ export function BookingSteps() {
                         </StepIcon>
                     </Step>
                     <StepTitle>
-                        Book Your Car
+                        Забронировать Запчасти
                     </StepTitle>
                     <StepDescription>
-                        Book your nice car with ease in one single click
+                        Получить запчасти в один клик.
                     </StepDescription>
                 </StepContainer>
             </StepsContainer>

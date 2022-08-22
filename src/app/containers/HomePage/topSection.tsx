@@ -149,15 +149,13 @@ export function TopSection() {
     return (
         <TopSectionContainer>
             <LeftContainer>
-                <Slogan>Rent The Best Qulity Car's With Us</Slogan>
+                <Slogan>Запчасти для машин высокого качества</Slogan>
                 <Description>
-                Always choose the best car from our local stores or order it remotely
-                at the best price for you and get the best quality cars for as long as
-                you like
+                 Если Вы работаете в сфере профессиональной реализации автозапчастей, сервисного обслуживания автомобилей или хотите самостоятельно отремонтировать свой авто, то Вас могут заинтересовать наши оптовые поставки оригинальных и лицензионных автозапчастей из ОАЭ, Катара, Омана и других стран Персидского залива, а также из Японии и Кореи.
                 </Description>
                 <ButtonsContainer>
-                    <Button text="Book Your Ride"/>
-                    <Button theme="filled" text="Sell Your Car" />
+                    <Button text="Купить запчасти"/>
+                    <Button theme="filled" text="Забронировать запчасти" />
                 </ButtonsContainer>
             </LeftContainer>
             <RightContainer>

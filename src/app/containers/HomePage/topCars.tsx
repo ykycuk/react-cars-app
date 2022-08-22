@@ -86,7 +86,7 @@ export function TopCars() {
     
     return (
         <TopCarsContainer>
-            <Title>Explore Our Top Deals</Title>
+            <Title>Ознакомтесь с нашими лучшими предложениями</Title>
             <CarsContainer>
                 <Carousel 
                     value={current} 

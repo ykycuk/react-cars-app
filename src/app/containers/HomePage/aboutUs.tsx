@@ -86,25 +86,13 @@ export function AboutUs() {
             </CardContainer>
             <InfoContainer>
                 <Title>
-                    Fell The Best Experience With Our Rental Deals
+                    Лучший опыт с нашими предложениями по детелям
                 </Title>
                 <InfoText>
-                    Lorem ipsum, dolor sit 
-                    amet consectetur adipisicing 
-                    elit. Dignissimos totam culpa 
-                    hic magnam tempore, odio sunt 
-                    excepturi aliquam non voluptates 
-                    maiores est debitis voluptas! 
-                    Consectetur accusamus asperiores 
-                    corporis. Quae, aliquid.
-                    Lorem ipsum, dolor sit 
-                    amet consectetur adipisicing 
-                    elit. Dignissimos totam culpa 
-                    hic magnam tempore, odio sunt 
-                    excepturi aliquam non voluptates 
-                    maiores est debitis voluptas! 
-                    Consectetur accusamus asperiores 
-                    corporis. Quae, aliquid.
+                Партнеры нашей компании работают непосредственно со складами заводов-производителей,
+                 что позволяет значительно снизить цены на предлагаемые товары и сроки их поставки.
+                 Мы можем обеспечить поставку качественных автозапчастей в заранее оговоренные 
+                 сроки по  объективным ценам.
                 </InfoText>
             </InfoContainer>
         </AboutUsContainer>
